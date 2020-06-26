@@ -32,3 +32,4 @@ function processInput() {
 jQuery('input[name="submit"]').on("click", function(){
 	processInput();
 });
+processInput();
